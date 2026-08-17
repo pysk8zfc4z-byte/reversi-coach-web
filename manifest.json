@@ -1,11 +1,11 @@
 {
-    "name": "reversi_coach",
-    "short_name": "reversi_coach",
+    "name": "Reversi Coach",
+    "short_name": "Reversi Coach",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "初心者育成型リバーシ。先に考えて、あとで評価する。",
+    "background_color": "#0B1F19",
+    "theme_color": "#0B1F19",
+    "description": "初心者育成型リバーシ。一手ごとに評価が見える。",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
